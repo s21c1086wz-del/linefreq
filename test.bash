@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2026 YOUR NAME
+# SPDX-FileCopyrightText: 2026 Masaki Naoe
 # SPDX-License-Identifier: BSD-3-Clause
 
 if command -v python3 >/dev/null 2>&1; then
